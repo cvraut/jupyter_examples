@@ -1,3 +1,6 @@
+# csv files might contain data we don't want leaving
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
