@@ -43,7 +43,7 @@ corenlp==0.0.14
 cryptography==41.0.6
 cycler==0.11.0
 cymem==2.0.7
-dash==2.11.1
+dash==2.15.0
 dash-bio==1.0.2
 dash-core-components==2.0.0
 dash-html-components==2.0.0
