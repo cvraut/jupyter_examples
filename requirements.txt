@@ -277,4 +277,4 @@ wrapt==1.14.1
 xarray==2023.6.0
 xgboost==1.7.6
 xmltodict==0.13.0
-zipp==3.16.0
+zipp==3.19.1
